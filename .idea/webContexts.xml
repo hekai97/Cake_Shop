@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/adminManage/adminAdd.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/adminManage/adminEdit.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/adminManage/adminList.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/cakeManage/cakeDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/cakeManage/cakeEdit.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/cakeManage/cakeList.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/cakeManage/catalogAdd.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/cakeManage/catalogList.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/left.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/orderManage/orderDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/orderManage/orderOp.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/admin/orderManage/orderlist.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/cakedetails.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/cakelist.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/cart.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/conorder.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/footer.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/myorderlist.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/ordersuccess.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/jsp/cake/reg.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+      </map>
+    </option>
+  </component>
+</project>
